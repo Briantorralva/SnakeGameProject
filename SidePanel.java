@@ -23,7 +23,7 @@ public class SidePanel extends JPanel {
 	/**
 	 * The large font to draw with.
 	 */
-	private static final Font LARGE_FONT = new Font("Tahoma", Font.BOLD, 20);
+	private static final Font LARGE_FONT = new Font("Tahoma", Font.BOLD, 24); // 20 to 24
 	
 	/**
 	 * The medium font to draw with.
